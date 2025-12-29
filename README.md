@@ -1,6 +1,10 @@
 # Hey, I'm Boudy
 I build small tools and experiment with whatever catches my interest. Most projects start because I want to learn something or automate something annoying.
 
+## Stuff I work with
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,godot,vite,nginx,docker,git,cs,flask,npm,unity,robloxstudio,wordpress,supabase,cloudflare"/>
+</p>
 
 ## Things I've built
 
@@ -19,11 +23,6 @@ Basically anything that makes my workflow easier or teaches me something new.
 - Building custom compilers/DSLs  
 - Cybersecurity  
 - AI agents
-
-## Stuff I work with
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,godot,vite,nginx,docker,git,cs,flask,npm,unity,robloxstudio,wordpress,supabase,cloudflare"/>
-</p>
 
 ## Want to learn
 <p align="center">
