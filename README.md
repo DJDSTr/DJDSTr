@@ -1,25 +1,22 @@
-## Hey, I’m Boudy
+# Hey, I'm Boudy
 
-I enjoy building small tools, experimenting with models, and trying out new ideas across different stacks. Most of my projects start as something I want to learn or automate, and I usually end up turning them into simple apps, scripts, or experiments.
+I build small tools and experiment with whatever catches my interest. Most projects start because I want to learn something or automate something annoying.
 
-### What I’ve been working with
+## Stuff I work with
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,godot,vite,nginx,docker,git,cs,flask,npm,unity,robloxstudio,wordpress,supabase,cloudflare"/>
+</p>
 
-* Python (Flask, small utilities, automation, model experiments)
-* Godot (mostly C#)
-* PyQt6 desktop apps
-* LLMs — running, fine-tuning, and testing models locally
-* Random experiments like wallpaper changers, loaders, plugins, and search tools
+## Things I've built
+Mostly lightweight desktop apps, AI tools, game prototypes, and random utilities like wallpaper changers and custom plugins. If it makes my workflow easier or teaches me something new, I'll probably try building it.
 
-### Things I like building
+## Right now I'm into
+- Fine-tuning models for niche tasks
+- Custom compilers and DSLs
+- Cybersecurity
+- AI agents
 
-* Lightweight desktop apps
-* AI-related tools and scripts
-* Small game prototypes
-* Utility projects that make my workflow easier
-
-### Current interests
-
-* Fine-tuning models for specific tasks
-* Creating custom compilers / DSLs for project automation
-* Testing new LLMs and seeing how they handle practical tasks
-* Learning more about AI agents
+## Want to learn
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,unreal,materialui,gtk"/>
+</p>
